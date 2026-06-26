@@ -1,0 +1,9 @@
+Instruction Override Coverage : 10.40%
+Jailbreak Coverage            : 58.87%
+
+Rule-Based Detector Results
+---------------------------
+Accuracy  : 56.15%
+Precision : 99.73%
+Recall    : 31.44%
+F1 Score  : 47.81%

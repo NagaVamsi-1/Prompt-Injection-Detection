@@ -1,0 +1,7 @@
+# Findings
+
+The keyword-based and regex-based detectors achieved extremely high precision but suffered from low recall, indicating that explicit attack patterns can be identified reliably while many paraphrased attacks remain undetected.
+
+The TF-IDF + Logistic Regression model significantly improved performance, achieving 95.93% accuracy and 96.77% F1-score. This demonstrates the effectiveness of statistical text representations over fixed rule-based approaches.
+
+Error analysis revealed that obfuscated attacks, encoded payloads, Unicode-based manipulations, and long narrative jailbreak prompts remain challenging for TF-IDF models. These findings motivate the use of contextual transformer-based models such as DistilBERT for more robust prompt injection detection.

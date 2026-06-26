@@ -1,0 +1,6 @@
+Regex Detector Results
+----------------------
+Accuracy  : 58.32%
+Precision : 99.60%
+Recall    : 34.89%
+F1 Score  : 51.68%

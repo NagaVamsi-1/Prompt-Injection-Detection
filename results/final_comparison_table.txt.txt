@@ -1,0 +1,8 @@
+# Model Comparison
+
+| Method                       | Accuracy | Precision | Recall  | F1 Score |
+| ---------------------------- | -------- | --------- | ------- | -------- |
+| Keyword Rules                | 56.15%   | 99.73%    | 31.44%  | 47.81%   |
+| Regex Rules                  | 58.32%   | 99.60%    | 34.89%  | 51.68%   |
+| TF-IDF + Logistic Regression | 95.93%   | 98.25%    | 95.33%  | 96.77%   |
+| DistilBERT                   | Pending  | Pending   | Pending | Pending  |
