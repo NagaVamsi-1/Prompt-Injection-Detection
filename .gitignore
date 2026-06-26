@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# Zip files
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.pkl
+
+# Build/cache
+build/
+dist/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
